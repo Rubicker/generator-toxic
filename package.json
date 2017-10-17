@@ -1,0 +1,21 @@
+{
+  "name": "generator-toxic",
+  "version": "1.0.0",
+  "description": "A generator for writing PC or HTML5 project as fast as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generator-toxic"
+  ],
+  "author": "Rubicker",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.1"
+  },
+  "files": [
+    "pc",
+    "h5"
+  ]
+}
